@@ -27,7 +27,7 @@ The beauty of Go is it allows a binary to be generated for any of the supported 
 
 ## Releases
 
-The binary releases for this application are available at [here](https://github.com/svicknesh/golang-handle-jwk/releases)
+The binary releases for this application are available at the following [link](https://github.com/svicknesh/golang-handle-jwk/releases).
 
 ## Application usage
 
