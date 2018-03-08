@@ -1,6 +1,6 @@
 # Handle Key Generator
 
-Generates private & public key in PEM format and public key in JSON Web Key (JWK) format for inclusion in an HS_ADMIN record.
+Generates private & public key in PEM format and public key in JSON Web Key (JWK) format for inclusion in a HS_PUBKEY record.
 
 ## Pre-requisites
 
